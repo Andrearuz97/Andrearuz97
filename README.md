@@ -1,16 +1,18 @@
-### Hi there 👋
+# Ciao! Sono Andrea Ruzittu 👋
 
-<!--
-**Andrearuz97/Andrearuz97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Mi sono specializzato come Full-Stack Developer attraverso un corso intensivo di 6 mesi, accumulando 950 ore formative. Durante questo periodo, ho avuto l'opportunità di approfondire una vasta gamma di tecnologie e strumenti.
 
-Here are some ideas to get you started:
+## Competenze Front-end 🌐
+- **Linguaggi & Librerie**: HTML, CSS3, JavaScript, TypeScript, SASS
+- **Framework**: Angular, Bootstrap
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Competenze Back-end 🛠️
+- **Linguaggi & Tecnologie**: Java, SQL, OOP
+- **Framework & Strumenti**: JPA, JMP, SpringBoot
+
+## Altri Strumenti & Tecnologie 🛠️
+- Git
+
+Sono sempre aperto a nuove opportunità e collaborazioni. Sentiti libero di contattarmi!
+
+
